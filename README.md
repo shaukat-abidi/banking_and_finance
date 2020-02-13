@@ -13,3 +13,8 @@ Once data is at hand, we should go through the following steps:
 Lets try to train a very simple Fraud detection model on financial transaction dataset. We selected public dataset from Kaggle, *[Synthetic Financial Datasets For Fraud Detection](https://www.kaggle.com/ntnu-testimon/paysim1)*.
 
 For more details, feel free to navigate through baseline_fraud_detection.ipynb.ipynb.
+
+
+# NOTE
+
+If notebook (baseline_fraud_detection.ipynb.ipynb for instance) fails to render in GITHUB, then visit https://nbviewer.jupyter.org/ and enter the following link to render **baseline_fraud_detection.ipynb.ipynb** (LINK: https://github.com/shaukat-abidi/banking_and_finance/blob/master/baseline_fraud_detection.ipynb). 
